@@ -1,6 +1,6 @@
 # Skiplist Implementation
 ## Overview
-Implementation of a randomized skip list. The insert and delete operations might need to rearrange the entire list. For populate level process the insert operation, each node is promoted to the next higher level with a probability of 1/2.
+Implementation of a randomized skip list. The insert and delete operations might need to rearrange the entire list. For populate level process in the insert operation, each node is promoted to the next higher level with a probability of 1/2.
 
 ### Operation Time Complexity
 

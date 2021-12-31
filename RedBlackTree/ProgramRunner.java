@@ -117,7 +117,7 @@ public class ProgramRunner {
     public static void main(String[] args) {
         // Read in a file
         String currentDirectory = System.getProperty("user.dir");
-        String filePath = currentDirectory + "/sample.txt";
+        String filePath = currentDirectory + "RedBlackTree/sample.txt";
         String text = "";
         try {
             text = loadFile(filePath);
